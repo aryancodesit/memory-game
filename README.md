@@ -14,6 +14,7 @@ It is a simple yet entertaining memory game where players match pairs of cards b
 
 To run this project locally, ensure you have the following installed:
 - Git for Windows
+
   ```
   winget install --id Git.Git -e --source winget
   ```
