@@ -14,7 +14,7 @@ It is a simple yet entertaining memory game where players match pairs of cards b
 
 To run this project locally, ensure you have the following installed:
 
-- Node.js: Download here
+- Node.js: [Download here](https://nodejs.org/en)
 - npm (comes with Node.js) or yarn
   
 **Technologies Used 🛠️**
